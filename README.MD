@@ -1,0 +1,1 @@
+## This website uses scroll reveal effects to animate content as you scroll down.
